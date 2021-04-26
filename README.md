@@ -9,11 +9,11 @@ Here's what I'm up to:
 - 🔭 Studying for the AWS Solutions Architect Associate exam
 - 🤓 Learning Docker, Python, et francais avec Duo
 - 📖 Reading about AWS and Python
+- ✍🏾 Creating content on [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg) and [the blog](https://msguery.net/blog)
 - 💬 Ask me about client management or experience, project management (or Asana), WordPress
 
 ## 🔗 Get in touch
 - 📝 You can [view my resume here](https://mguery.github.io/resume/)
-- ✍🏾 Creating content on [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg) and [the blog](https://msguery.net/blog)
 - 📫 Connect with me - [email](mailto:marjyguery+gh@gmail.com) or [LinkedIn](https://www.linkedin.com/in/msguery/)
 
 ## 👩🏾‍💻 2021 Goals
