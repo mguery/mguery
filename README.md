@@ -1,14 +1,14 @@
 ### Hi there, I'm Marjy! 👋🏾 
 
-Pronounced MAR-GEE
+(as in MAR-GEE)
 
 I'm a Tech Consultant with a background in admin and customer support. I help creative and tech consultants improve client experience and simplify business operations. 
 
 Here's what I'm up to:
 
 - 🔭 Studying for the AWS Solutions Architect Associate exam
-- 🤓 Learning Docker, Python, et francais avec Duo
-- 📖 Reading about AWS and Python
+- 🤓 Learning Docker, Kubernetes, Python, et francais avec Duo
+- 📖 Reading about AWS study guides
 - ✍🏾 Creating content on [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg) and [the blog](https://msguery.net/blog)
 - 💬 Ask me about client management or experience, project management (or Asana), WordPress
 
@@ -17,15 +17,15 @@ Here's what I'm up to:
 - 📫 Connect with me - [email](mailto:marjyguery+gh@gmail.com) or [LinkedIn](https://www.linkedin.com/in/msguery/)
 
 ## 👩🏾‍💻 2021 Goals
-- [ ] Work as a Cloud or DevOps Engineer/Consultant
-- [ ] Learn Python
-- [ ] Learn JavaScript basics and React
-- [ ] Certified AWS Security Specialty
+- [ ] Title: Cloud or DevOps Engineer/Consultant
+- [ ] Learn: JavaScript basics and React
+- [ ] Certified: AWS Security Specialty
 
 
 <details> 
 <summary>GitHub Stats </summary>
-
+<br />
+  
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=mguery&show_icons=true&theme=onedark)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=mguery&show_icons=true&theme=onedark)
