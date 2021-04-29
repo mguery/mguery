@@ -18,8 +18,8 @@ Here's what I'm up to:
 - [ ] Certified: AWS Security Specialty
 
 ## 🔗 Get in touch
-- 📝 [View my projects here](https://mguery.github.io/resume/)
-- 📝 [View my resume here](https://msguery.net/resume-doc)
+- 👷🏾‍♀️ [View my projects here](https://mguery.github.io/resume/)
+- 📃 [View my resume here](https://msguery.net/resume-doc)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/msguery/)
 
 
