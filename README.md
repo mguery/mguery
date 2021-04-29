@@ -23,7 +23,7 @@ Here's what I'm up to:
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/msguery/)
 
 
-### Blogs posts
+### Recent posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
