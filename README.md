@@ -35,7 +35,7 @@ Here's what I'm up to:
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=mguery&show_icons=true&theme=onedark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mguery&" alt="mguery" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mguery&theme=onedark" alt="mguery" /></p>
 </details>
 
 <h3 align="left">Languages and Tools:</h3>
