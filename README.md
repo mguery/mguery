@@ -22,10 +22,14 @@ Here's what I'm up to:
 - 📃 [View my resume here](https://msguery.net/resume-doc)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/msguery/)
 
-
-### Recent posts
+<!--
+### 📖 Recent posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+
+<!-- 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=mguery&hide_title=true&hide_border=true&langs_count=5)-->
 
 <details> 
 <summary>GitHub Stats </summary>
