@@ -1,13 +1,13 @@
 ### Hi there, I'm Marjy! 👋🏾 
 
-(as in MAR-GEE)
+(as in Mar-GEE)
 
 I'm a Tech Consultant with a background in admin and customer support. I help creative and tech consultants improve client experience and simplify business operations. 
 
 Here's what I'm up to:
 
 - 🔭 Studying for the AWS Solutions Architect Associate exam
-- 🤓 Learning Docker, Kubernetes, Python, et francais avec Duo
+- 🤓 Learning Kubernetes, Python, Ansible, et francais avec Duo
 - 📖 Reading AWS study guides
 - ✍🏾 Creating content on [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg) and [the blog](https://msguery.net/blog)
 - 💬 Ask me about how to improve client experience, managing projects and clients, Asana, WordPress
@@ -17,7 +17,7 @@ Here's what I'm up to:
 - [ ] Certified AWS Solutions Architect (in progress)
 - [ ] Certified AWS Security Specialty
 - [ ] Title: Cloud or DevOps Engineer/Consultant
-- [ ] Learn: JavaScript basics and React
+- [ ] Learn JavaScript basics and React
 
 ## 🔗 Get in touch
 - 👷🏾‍♀️ [View my projects here](https://mguery.github.io/resume/)
@@ -50,7 +50,7 @@ Here's what I'm up to:
 </details>
 
 ---
-**Create your own GitHub profile**
+**Create your "Secret" GitHub repo**
 - [Create a new repo with your username](https://dev.to/puf17640/github-secret-add-a-readme-to-your-profile-25j1). Add a README.md file
 - Use the [README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/). Copy and paste it to your README.md file. Commit changes and voila!
 - Find more [add-ons here](https://github.com/anuraghazra/github-readme-stats).
