@@ -13,9 +13,11 @@ Here's what I'm up to:
 - 💬 Ask me about how to improve client experience, managing projects and clients, Asana, WordPress
 
 ## 👩🏾‍💻 2021 Goals
+- [x] Certified AWS Cloud Practitioner
+- [ ] Certified AWS Solutions Architect (in progress)
+- [ ] Certified AWS Security Specialty
 - [ ] Title: Cloud or DevOps Engineer/Consultant
-- [ ] After Python: JavaScript basics and React
-- [ ] Certified: AWS Security Specialty
+- [ ] Learn: JavaScript basics and React
 
 ## 🔗 Get in touch
 - 👷🏾‍♀️ [View my projects here](https://mguery.github.io/resume/)
