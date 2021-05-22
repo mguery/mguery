@@ -7,7 +7,7 @@ I'm a Tech Consultant with a background in admin and customer support. I help cr
 Here's what I'm up to:
 
 - 🔭 Studying for the AWS Solutions Architect Associate exam
-- 🤓 Learning Kubernetes, Python, et francais avec Duo
+- 🤓 Learning Python, Kubernetes, et francais avec Duo
 - 📖 Reading AWS study guides
 - ✍🏾 Creating content on [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg) and [the blog](https://msguery.net/blog)
 - 💬 Ask me about how to improve client experience, managing projects and clients, Asana, WordPress
@@ -21,7 +21,6 @@ Here's what I'm up to:
 
 ## 🔗 Get in touch
 - 👷🏾‍♀️ [View my projects here](https://mguery.github.io/resume/)
-- 📃 [View my resume here](https://msguery.net/resume-doc)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/msguery/)
 
 
