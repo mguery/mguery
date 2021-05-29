@@ -30,6 +30,7 @@ Here's what I'm up to:
 - [How to Create a YouTube Planner with Google Sheets](https://msguery.net/youtube-google-sheets/?utm_source=rss&utm_medium=rss&utm_campaign=youtube-google-sheets)
 - [How to Create a Simple Project Proposal](https://msguery.net/how-to-create-proposal/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-proposal)
 - [How to Create a New Client Onboarding Kit](https://msguery.net/client-onboarding-kit/?utm_source=rss&utm_medium=rss&utm_campaign=client-onboarding-kit)
+- [Dubsado Walkthrough: How to Set Up + Automate Your Workflows](https://msguery.net/dubsado-walkthrough/?utm_source=rss&utm_medium=rss&utm_campaign=dubsado-walkthrough)
 <!-- BLOG-POST-LIST:END -->
 
 
