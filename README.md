@@ -51,18 +51,9 @@ Here's what I'm up to:
   <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
 
-<details> 
-<summary>GitHub Stats </summary>
-<br />
-  
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=mguery&show_icons=true&theme=onedark)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=mguery&show_icons=true&theme=onedark)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mguery&theme=onedark" alt="mguery" /></p>
-</details>
 
 ---
+
 **Create your "Secret" GitHub repo**
 - [Create a new repo with your username](https://dev.to/puf17640/github-secret-add-a-readme-to-your-profile-25j1). Add a README.md file
 - Use the [README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/). Copy and paste it to your README.md file. Commit changes and voila! Another generator [README.md editor](https://readme.so/editor)
