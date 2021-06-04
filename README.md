@@ -6,15 +6,13 @@ I'm a Tech Consultant with a background in admin and customer support. I help cr
 
 Here's what I'm up to:
 
-- 🔭 Studying for the AWS Solutions Architect Associate exam
 - 🤓 Learning Python, Kubernetes, et francais avec Duo
-- 📖 Reading AWS study guides
 - ✍🏾 Creating content on [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg) and [the blog](https://msguery.net/blog)
 - 💬 Ask me about how to improve client experience, managing projects and clients, Asana, WordPress, and other business tools to use
 
 ## 👩🏾‍💻 2021 Goals
 - [x] Certified AWS Cloud Practitioner
-- [ ] Certified AWS Solutions Architect (in progress)
+- [x] Certified AWS Solutions Architect
 - [ ] Certified AWS Security Specialty
 - [ ] Title: Cloud or DevOps Engineer/Consultant
 - [ ] Learn JavaScript basics and React
