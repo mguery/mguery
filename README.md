@@ -6,20 +6,21 @@ I'm a Tech Consultant with a background in admin and customer support. I help cr
 
 Here's what I'm up to:
 
-- 🤓 Learning Python, Kubernetes, et francais avec Duo
+- 📖 Currently enrolled: [Udacity Cloud Native Foundations program](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship)
+- 🤓 Learning Python, Kubernetes, et le francais avec Duo
 - ✍🏾 Creating content on [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg) and [the blog](https://msguery.net/blog)
-- 💬 Ask me about how to improve client experience, managing projects and clients, Asana, WordPress, and other business tools to use
+- 💬 Ask me about how to improve client experience, manage projects and clients, Asana, WordPress
 
 ## 👩🏾‍💻 2021 Goals
 - [x] Certified AWS Cloud Practitioner
 - [x] Certified AWS Solutions Architect
+- [ ] Title: Cloud/DevOps Engineer
 - [ ] Certified AWS Security Specialty
-- [ ] Title: Cloud or DevOps Engineer/Consultant
 - [ ] Learn JavaScript basics and React
 
 ## 🔗 Get in touch
-- 👷🏾‍♀️ [View my projects here](https://mguery.github.io/resume/)
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/msguery/)
+- 👷🏾‍♀️ [View my resume](https://mguery.github.io/resume/)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/msguery/)
 
 
 ### 📖 Recent blog posts
