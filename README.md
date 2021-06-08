@@ -6,7 +6,7 @@ I'm a Tech Consultant with a background in admin and customer support. I help cr
 
 Here's what I'm up to:
 
-- 📖 Currently enrolled: [Udacity Cloud Native Foundations program](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship)
+- 📖 Currently enrolled: [Udacity Cloud Native Foundations program](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship) | [View project](https://github.com/mguery/cloud-native)
 - 🤓 Learning Python, Kubernetes, et le francais avec Duo
 - ✍🏾 Creating content on [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg) and [the blog](https://msguery.net/blog)
 - 💬 Ask me about how to improve client experience, manage projects and clients, Asana, WordPress
