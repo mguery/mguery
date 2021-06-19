@@ -2,7 +2,7 @@
 
 (as in Mar-GEE)
 
-I'm a Implementation Consultant with a background in admin and customer support. I help online service service providers improve client experience and simplify business operations. 
+I'm an Implementation Consultant with a background in admin and customer support. I help online service service providers improve client experience and simplify business operations. 
 
 Here's what I'm up to:
 
