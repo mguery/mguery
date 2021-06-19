@@ -2,24 +2,24 @@
 
 (as in Mar-GEE)
 
-I'm a Tech Consultant with a background in admin and customer support. I help creative and tech consultants improve client experience and simplify business operations. 
+I'm a Implementation Consultant with a background in admin and customer support. I help online service service providers improve client experience and simplify business operations. 
 
 Here's what I'm up to:
 
 - 📖 Currently enrolled: [Udacity Cloud Native Foundations program](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship) | [View project](https://github.com/mguery/cloud-native)
 - 🤓 Learning Python, Kubernetes, et le francais avec Duo
-- ✍🏾 Creating content on [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg) and [the blog](https://msguery.net/blog)
+- ✍🏾 Creating content on the blog and [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg) 
 - 💬 Ask me about how to improve client experience, manage projects and clients, Asana, WordPress
 
 ## 👩🏾‍💻 2021 Goals
-- [x] Certified AWS Cloud Practitioner
-- [x] Certified AWS Solutions Architect
-- [ ] Title: Cloud/DevOps Engineer
+- [x] AWS Certified Cloud Practitioner
+- [x] AWS Certified Solutions Architect Associate
+- [ ] AWS Certified Solutions Architect Professional
 - [ ] Certified AWS Security Specialty
 - [ ] Learn JavaScript basics and React
 
 ## 🔗 Get in touch
-- 👷🏾‍♀️ [View my resume](https://mguery.github.io/resume/)
+- 👷🏾‍♀️ [View digital resume](https://mguery.github.io/resume/)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/msguery/)
 
 
