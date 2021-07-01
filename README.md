@@ -14,6 +14,7 @@ Here's what I'm up to:
 ## 👩🏾‍💻 2021 Goals
 - [x] AWS Certified Cloud Practitioner
 - [x] AWS Certified Solutions Architect Associate
+- [x] Microsoft Certified Azure Fundamentals
 - [ ] AWS Certified Solutions Architect Professional
 - [ ] Certified AWS Security Specialty
 - [ ] Learn JavaScript basics and React
