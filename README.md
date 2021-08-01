@@ -6,8 +6,8 @@ I'm an Implementation Consultant with a background in admin and customer support
 
 Here's what I'm up to:
 
-- 📖 Currently enrolled: [Udacity Cloud Native Foundations program](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship) | [View project](https://github.com/mguery/cloud-native)
-- 🤓 Learning Python, Kubernetes, et le francais avec Duo
+- 📖 Currently enrolled: [Adrian Cantrill Solution Architect](https://learn.cantrill.io) to get more hands-on experience
+- 🤓 Also learning a little bit of Python, Linux, et le francais avec Duo
 - ✍🏾 Creating content on the blog and [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg) 
 - 💬 Ask me about how to improve client experience, manage projects and clients, Asana, WordPress
 
@@ -15,9 +15,9 @@ Here's what I'm up to:
 - [x] AWS Certified Cloud Practitioner
 - [x] AWS Certified Solutions Architect Associate
 - [x] Microsoft Certified Azure Fundamentals
-- [ ] AWS Certified Solutions Architect Professional
-- [ ] Certified AWS Security Specialty
-- [ ] Learn JavaScript basics and React
+- [ ] AWS Certified Solutions Architect Professional (3rd quarter)
+- [ ] Certified AWS Security Specialty (4th quarter)
+- [ ] Learn JavaScript basics and React (4th quarter)
 
 ## 🔗 Get in touch
 - 👷🏾‍♀️ [View digital resume](https://mguery.github.io/resume/)
