@@ -15,9 +15,9 @@ Here's what I'm up to:
 - [x] AWS Certified Cloud Practitioner
 - [x] AWS Certified Solutions Architect Associate
 - [x] Microsoft Certified Azure Fundamentals
-- [ ] AWS Certified Solutions Architect Professional 
-- [ ] Certified AWS Security Specialty 
-- [ ] Learn JavaScript basics and React
+- [ ] AWS Certified Solutions Architect Professional (4th Qtr)
+- [ ] Certified AWS Security Specialty (4th Qtr)
+- [ ] Learn JavaScript basics and React (4th Qtr)
 
 ## 🔗 Get in touch
 - 👷🏾‍♀️ [View digital resume](https://mguery.github.io/resume/)
