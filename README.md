@@ -6,7 +6,7 @@ I'm an Implementation Consultant with a background in admin and customer support
 
 Here's what I'm up to:
 
-- 📖 Currently enrolled: [Adrian Cantrill Solution Architect](https://learn.cantrill.io)
+- 📖 Currently enrolled: [Adrian Cantrill Solution Architect](https://learn.cantrill.io) and []()
 - 🤓 Also learning a little bit of Python, Linux, et le francais avec Duo
 - ✍🏾 Creating content on [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg) 
 - 💬 Ask me about how to improve client experience, manage projects and clients, Asana, WordPress
@@ -16,9 +16,9 @@ Here's what I'm up to:
 - [x] AWS Certified Solutions Architect Associate
 - [x] Microsoft Certified Azure Fundamentals
 - [ ] AWS Certified Solutions Architect Professional
-- [ ] Certified AWS Security Specialty 
 
 ## 👩🏾‍💻 2022 Goals
+- [ ] Certified AWS Security Specialty (Renews Security+)
 - [ ] HashiCorp Certified: Terraform Associate
 - [ ] Learn JavaScript basics and React
 - [ ] GCP Cloud Digital Leader 
