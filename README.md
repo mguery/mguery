@@ -6,7 +6,7 @@ I'm an Implementation Consultant with a background in admin and customer support
 
 Here's what I'm up to:
 
-- 📖 Currently enrolled: [Adrian Cantrill Solution Architect](https://learn.cantrill.io) and []()
+- 📖 Currently enrolled: [Adrian Cantrill's SA - Associate](https://learn.cantrill.io) and [Stephane Maarek's SA - Pro](https://www.udemy.com/course/aws-solutions-architect-professional/)
 - 🤓 Also learning a little bit of Python, Linux, et le francais avec Duo
 - ✍🏾 Creating content on [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg) 
 - 💬 Ask me about how to improve client experience, manage projects and clients, Asana, WordPress
