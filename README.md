@@ -7,7 +7,7 @@ I'm an Implementation Consultant with a background in admin and customer support
 Here's what I'm up to:
 
 - 📖 Currently enrolled: [Adrian Cantrill's SA - Associate](https://learn.cantrill.io) and [Stephane Maarek's SA - Pro](https://www.udemy.com/course/aws-solutions-architect-professional/)
-- 🤓 Also learning a little bit of Python, Linux, et le francais avec Duo
+- 🤓 Also learning a little bit of Linux, Bash scripting, et le francais avec Duo
 - ✍🏾 Creating content on [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg) 
 - 💬 Ask me about how to improve client experience, manage projects and clients, Asana, WordPress
 
@@ -18,9 +18,9 @@ Here's what I'm up to:
 - [ ] AWS Certified Solutions Architect Professional
 
 ## 👩🏾‍💻 2022 Goals
-- [ ] Certified AWS Security Specialty (Renews Security+)
+- [ ] Certified AWS Security Specialty (To renew my Security+)
 - [ ] HashiCorp Certified: Terraform Associate
-- [ ] Learn JavaScript basics and React
+- [ ] Learn JavaScript and React
 - [ ] GCP Cloud Digital Leader 
 
 
