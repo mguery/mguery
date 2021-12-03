@@ -17,7 +17,7 @@ Here's what I'm up to:
 - [x] Microsoft Certified Azure Fundamentals
 - [ ] AWS Certified Solutions Architect Professional
 - [ ] AWS Certified Security Specialty
-- [ ] Microsoft Identity and Access Administrator SC-300 
+- [ ] Microsoft Azure Solutions Architect or Security Engineer 
 - [ ] HashiCorp Certified: Terraform Associate
 - [ ] Learn JavaScript and React
 - [ ] GCP Cloud Digital Leader 
