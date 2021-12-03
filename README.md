@@ -11,14 +11,13 @@ Here's what I'm up to:
 - ✍🏾 Sometimes creating content on [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg) 
 - 💬 Ask me about how to improve client experience, manage projects and clients, Asana, WordPress
 
-## 👩🏾‍💻 2021 Goals
+## 👩🏾‍💻 2021-22 Goals
 - [x] AWS Certified Cloud Practitioner
 - [x] AWS Certified Solutions Architect Associate
 - [x] Microsoft Certified Azure Fundamentals
-- [ ] AWS Certified Solutions Architect Professional (scheduled for Dec)
-
-## 👩🏾‍💻 2022 Goals
-- [ ] Certified AWS Security Specialty
+- [ ] AWS Certified Solutions Architect Professional
+- [ ] AWS Certified Security Specialty
+- [ ] Microsoft Identity and Access Administrator SC-300 
 - [ ] HashiCorp Certified: Terraform Associate
 - [ ] Learn JavaScript and React
 - [ ] GCP Cloud Digital Leader 
