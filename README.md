@@ -10,22 +10,15 @@ Here's what I'm up to:
 - 🤓 Also learning a little bit of Bash scripting, Python, et le francais avec Duo
 - ✍🏾 Sometimes creating content on [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg) 
 - 💬 Ask me about how to improve client experience, manage projects and clients, Asana, WordPress
+- 📞 Get in touch: [View my resume](https://mguery.github.io/resume/) or connect with me on [LinkedIn](https://www.linkedin.com/in/msguery/).
 
-## 👩🏾‍💻 2021-22 Goals
-- [x] AWS Certified Cloud Practitioner
-- [x] AWS Certified Solutions Architect Associate
-- [x] Microsoft Certified Azure Fundamentals
+## 👩🏾‍💻 2022 Goals
 - [ ] AWS Certified Solutions Architect Professional
 - [ ] AWS Certified Security Specialty
 - [ ] Microsoft Azure Solutions Architect or Security Engineer 
 - [ ] HashiCorp Certified: Terraform Associate
 - [ ] Learn JavaScript and React
-- [ ] GCP Cloud Digital Leader 
-
-
-## 🔗 Get in touch
-- 👷🏾‍♀️ [View digital resume](https://mguery.github.io/resume/)
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/msguery/)
+- [ ] Cloud Security Engineer role 
 
 ---
 
