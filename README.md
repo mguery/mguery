@@ -2,7 +2,7 @@
 
 (as in Mar-GEE)
 
-I'm an Implementation Consultant with a background in admin and customer support. I help online service service providers improve client experience and simplify business operations. 
+I'm a self-taught cloud engineer with 9+ years of admin and customer support experience and 7 years of business consulting. 
 
 Here's what I'm up to:
 
@@ -15,7 +15,8 @@ Here's what I'm up to:
 ## 👩🏾‍💻 2022 Goals
 - [ ] AWS Certified Solutions Architect Professional
 - [ ] AWS Certified Security Specialty
-- [ ] Microsoft Azure Solutions Architect or Security Engineer 
+- [ ] Microsoft Identity and Access Administrator
+- [ ] Microsoft Certified: Azure Security Engineer Associate
 - [ ] HashiCorp Certified: Terraform Associate
 - [ ] Learn JavaScript and React
 - [ ] Cloud Security Engineer role 
