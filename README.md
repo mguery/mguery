@@ -6,20 +6,19 @@ I'm a self-taught cloud engineer with 9+ years of admin and customer support exp
 
 Here's what I'm up to:
 
-- 📖 Currently enrolled: [Stephane Maarek's SA - Pro](https://www.udemy.com/course/aws-solutions-architect-professional/)
-- 🤓 Also learning a little bit of Bash scripting, Python, et le francais avec Duo
+- 📖 Currently enrolled/studying: AWS & Azure Security
+- 🤓 Also learning a little bit of Bash scripting, Python automation, et le francais avec Duo
 - ✍🏾 Sometimes creating content on [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg) 
 - 💬 Ask me about how to improve client experience, manage projects and clients, Asana, WordPress
 - 📞 Get in touch: [View my resume](https://mguery.github.io/resume/) or connect with me on [LinkedIn](https://www.linkedin.com/in/msguery/).
 
 ## 👩🏾‍💻 2022 Goals
+- [ ] Microsoft Identity and Access Administrator (1st quarter)
+- [ ] Microsoft Certified: Azure Security Engineer Associate (1st quarter)
+- [ ] AWS Certified Security Specialty (1st quarter)
 - [ ] AWS Certified Solutions Architect Professional
-- [ ] AWS Certified Security Specialty
-- [ ] Microsoft Identity and Access Administrator
-- [ ] Microsoft Certified: Azure Security Engineer Associate
 - [ ] HashiCorp Certified: Terraform Associate
 - [ ] Learn JavaScript and React
-- [ ] Cloud Security Engineer role 
 
 ---
 
