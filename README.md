@@ -6,8 +6,8 @@ I'm a self-taught cloud engineer with 9+ years of admin and customer support exp
 
 Here's what I'm up to:
 
-- 📖 Currently enrolled/studying: AWS & Azure Security for the 1st quarter
-- 🤓 Coding: [100 Days of Code: Python](https://100daysofpython.dev/) 
+- 📖 Currently studying: AWS & Azure Security for the 1st quarter
+- 🤓 Enrolled in: [IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation) 
 - ✍🏾 Sometimes creating content on [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg) 
 - 💬 Ask me about how to improve client experience, manage projects and clients, Asana, WordPress
 - 📞 Get in touch: [View my resume](https://mguery.github.io/resume/) or connect with me on [LinkedIn](https://www.linkedin.com/in/msguery/).
