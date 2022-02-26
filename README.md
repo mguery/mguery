@@ -13,10 +13,10 @@ Here's what I'm up to:
 - 📞 Get in touch: [View my resume](https://mguery.github.io/resume/) or connect with me on [LinkedIn](https://www.linkedin.com/in/msguery/).
 
 ## 👩🏾‍💻 2022 Goals
-- [ ] Microsoft Identity and Access Administrator (Feb 2022)
-- [ ] Microsoft Certified: Azure Security Engineer (Feb 2022)
-- [ ] AWS Certified Security Specialty (March 2022)
-- [ ] Enroll in IT Management program at WGU (Aug 2022)
+- [x] Microsoft Identity and Access Administrator (Feb 2022)
+- [ ] Microsoft Certified: Azure Security Engineer (March 2022)
+- [ ] AWS Certified Security Specialty (April 2022)
+- [ ] Enroll in IT Management program at WGU (Summer 2022)
 
 ---
 
