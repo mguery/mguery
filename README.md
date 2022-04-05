@@ -6,15 +6,15 @@ I'm a self-taught cloud engineer with 9+ years of admin and customer support exp
 
 Here's what I'm up to:
 
-- 📖 Currently studying: AWS & Azure Security 
+- 📖 Currently learning: AWS & Azure Security 
 - 🤓 Enrolled in: [IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation) 
 - ✍🏾 Sometimes creating content on [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg) 
 - 💬 Ask me about how to improve client experience, manage projects and clients, Asana, WordPress
 - 📞 Get in touch: [View my resume](https://mguery.github.io/resume/) or connect with me on [LinkedIn](https://www.linkedin.com/in/msguery/).
 
 ## 👩🏾‍💻 2022 Goals
-- [x] Microsoft Identity and Access Administrator (Feb 2022)
-- [ ] Microsoft Certified: Azure Security Engineer (April 2022)
+- ✅ Microsoft Identity and Access Administrator 
+- ❌ Microsoft Certified: Azure Security Engineer 
 - [ ] Enroll in IT Management program at WGU (Summer 2022)
 - [ ] Learn JavaScript & React (Summer 2022)
 
