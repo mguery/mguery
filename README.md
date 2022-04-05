@@ -15,8 +15,8 @@ Here's what I'm up to:
 ## 👩🏾‍💻 2022 Goals
 - ✅ Microsoft Identity and Access Administrator 
 - ❌ Microsoft Certified: Azure Security Engineer 
-- [ ] Enroll in IT Management program at WGU (Summer 2022)
-- [ ] Learn JavaScript & React (Summer 2022)
+- 🔜 Enroll in IT Management program at WGU (Summer 2022)
+- 🔜 Learn JavaScript & React (Summer 2022)
 
 ---
 
