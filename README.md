@@ -2,7 +2,7 @@
 
 (as in Mar-GEE)
 
-I'm a self-taught cloud engineer with 9+ years of admin and customer support experience and 7 years of business consulting. 
+I'm a self-taught cloud engineer with 9+ years of admin and customer support experience and 7 years of business consulting. Interested in Security Analyst, Implementation Engineer, or IT Project Coordinator/Manager roles.  
 
 Here's what I'm up to:
 
