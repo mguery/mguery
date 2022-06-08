@@ -2,12 +2,12 @@
 
 (as in Mar-GEE)
 
-I'm a self-taught cloud engineer with 9+ years of admin and customer support experience and 7 years of business consulting. Interested in Security Analyst, Implementation Engineer, or IT Project Coordinator/Manager roles.  
+I'm a self-taught cloud engineer with 9+ years of admin and customer support experience and 7 years of business consulting. Interested in Implementation Engineer or Technical Project Coordinator/Manager roles.  
 
 Here's what I'm up to:
 
-- 📖 Currently learning: AWS & Azure Security 
-- 🤓 Enrolled in: [IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation) 
+- 📖 Currently learning: AWS & Azure Security + Tech Project Management
+- 🤓 Enrolled in: [Google Project Management program](https://www.coursera.org/professional-certificates/google-project-management) 
 - ✍🏾 Sometimes creating content on [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg) 
 - 💬 Ask me about how to improve client experience, manage projects and clients, Asana, WordPress
 - 📞 Get in touch: [View my resume](https://mguery.github.io/resume/) or connect with me on [LinkedIn](https://www.linkedin.com/in/msguery/).
@@ -15,8 +15,9 @@ Here's what I'm up to:
 ## 👩🏾‍💻 2022 Goals
 - ✅ Microsoft Identity and Access Administrator 
 - ❌ Microsoft Certified: Azure Security Engineer 
-- 🔜 Enroll in IT Management program at WGU (Summer 2022)
-- 🔜 Learn JavaScript & React (Summer 2022)
+- 🔜 Learn Python - Dr. Yu's 100 Days of Python (3rd quarter)
+- 🔜 Learn JavaScript & React - Wes Bos courses (4th quarter)
+- 🔜 Complete BSBA - IT Management program at WGU (4th quarter)
 
 ---
 
