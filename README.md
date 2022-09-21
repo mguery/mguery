@@ -2,7 +2,7 @@
 
 (as in Mar-GEE)
 
-I'm a self-taught techie with 5+ years of admin/customer support and business consulting experience. Interested in Implementation Engineer or Technical Project Coordinator/Manager roles.  
+I'm a self-taught techie with 5+ years of admin/customer support and business consulting experience. Interested in Implementation Engineer, Business System Analyst, Technical Project Coordinator roles.  
 
 Here's what I'm up to:
 
