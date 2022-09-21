@@ -15,8 +15,8 @@ Here's what I'm up to:
 ## 👩🏾‍💻 2022 Goals
 - ✅ Microsoft Identity and Access Administrator 
 - ❌ Microsoft Certified: Azure Security Engineer (retake in 2023)
-- 🔜 Certified Associate in Project Management (CAPM) (3rd quarter)
-- 🔜 Learn Python - Dr. Yu's 100 Days of Python (4th quarter)
+- ✅ Certified ScrumMaster® (CSM®) 
+- 🔜 Certified Associate in Project Management (CAPM) (4th quarter)
 - 🔜 Complete BSBA - IT Management program at WGU (4th quarter)
 
 ---
