@@ -6,7 +6,7 @@ I'm a self-taught IT professional specializing in business intelligence and oper
 
 Here's what I'm up to:
 
-- 📖 Currently learning: Power BI, Python, Tableau, SQL [(View Projects)](https://marjygprojects.wordpress.com/portfolio/)
+- 📖 Currently learning: Power BI, Python, Tableau, SQL [(View Projects)](https://marjygprojects.wordpress.com/projects/)
 - ✍🏾 Sometimes creating content on [YouTube](https://www.youtube.com/@marjyg) 
 - 💬 Ask me about how to improve client experience, manage projects and clients, WordPress, or content creation
 - 📞 Get in touch: [View my profile and resume](http://marjyg.website) or connect with me on [LinkedIn](https://www.linkedin.com/in/msguery/)
