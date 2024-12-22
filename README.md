@@ -2,17 +2,13 @@
 
 (as in Mar-GEE)
 
-I'm a self-taught IT professional specializing in business intelligence and operations. Interested in data-focused and customer-focused roles (analyst, specialist, engineer, consultant). 
+I'm a self-taught data professional interested in data-focused and customer-focused roles (analyst, specialist, engineer, consultant). 
 
 Here's what I'm up to:
 
-- 📖 Currently learning: Power BI, Python, Tableau, SQL [(View Projects)](https://marjygprojects.wordpress.com/projects/)
-- ✍🏾 Sometimes creating content on [YouTube](https://www.youtube.com/@marjyg) 
-- 💬 Ask me about how to improve client experience, manage projects and clients, WordPress, or content creation
+- 📖 Currently learning: Python, [(SQL)](https://marjygprojects.wordpress.com/projects/), Looker Studio
+- ✍🏾 Making content for creators on [YouTube](https://www.youtube.com/@marjyg) 
 - 📞 Get in touch: Connect with me on [LinkedIn](https://www.linkedin.com/in/msguery/)
 
-## 👩🏾‍💻 2023 Goals
-- ✅ Complete BSBA - IT Management program at WGU
-- ✅ Microsoft Identity and Access Administrator (renewed)
-- ✅ Certified Associate in Project Management (CAPM)
+## 👩🏾‍💻 2025 Goals
 - 📊 Become a business data professional 
